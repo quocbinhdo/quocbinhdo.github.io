@@ -1,0 +1,99 @@
+.welcome {
+    font-size: 14px;
+    background: black;
+    color: white;
+    padding: 5px 0;
+    text-align: center
+}
+.header {
+    padding: 5px 0;
+    background: #d4b801;
+}
+.navbar {
+    float: right;
+}
+.navbar .navbar-nav > li a {
+    font-weight: 700;
+    color: #111;
+}
+.home-slider {
+    background-color: black;
+    padding-left: 0;
+    padding-right: 0;
+}
+.latest-pr {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.latest-title {
+    padding: 30px 0;
+}
+.block,
+#block-1 {
+    padding: 20px;
+    border: 1px solid #d4b801;
+}
+.project-img {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.btn {
+    margin: 30px;
+}
+.btn-view-more {
+    text-decoration: none;
+    color: white;
+    border: 1px solid #d4b801;
+    padding: 10px 20px;
+    width: auto;
+}
+.btn-view-more:hover {
+    color: #d4b801;
+}
+.about-right {
+    text-align: left;
+}
+#contact {
+    padding: 30px;
+    background-color: black;
+}
+.block-ct {
+    padding: 20px;
+    background: #1e1c1cab;
+}
+.contact-form > .row:first-child .col-md-6 {
+    padding: 0;
+}
+.contact-form {
+    max-width: 800px;
+    margin: auto;
+}
+.contact-form input {
+    width: 98%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    height: 50px;
+}
+.contact-form input[type="email"] {
+    float: right;
+}
+.contact-form button {
+    margin-top: 20px;
+    width: auto;
+    padding: 10px 20px;
+    font-weight: 600;
+    border: 1px solid #d4b801;
+    background: black;
+    color: white;
+    margin: 20px auto;
+}
+.send-message:hover {
+    color: #d4b801;
+}
+.footer {
+    padding: 30px 0;
+    text-align: center;
+    background: #d4b801;
+}
